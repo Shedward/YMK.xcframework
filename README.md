@@ -1,0 +1,1 @@
+YandexMapKit-4.0.0 full собраный в xcframework по https://github.com/phoe3nix/yandexMapKit-spm-demo
